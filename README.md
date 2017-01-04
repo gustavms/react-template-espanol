@@ -1,11 +1,11 @@
 # react-webpack-template-español :0
-Este es un template de React explicado en español para toda la comunidad, gratis, solo dame una estrellita y sigueme como agradecimiento :)
+Este es un template Basico de React explicado en español para toda la comunidad, gratis, solo dame una estrellita y hazle fork de agradecimiento :)
 La estructura esta realizada en 3 componentes: Header (navbar), Body y Footer
- [webpack-howto](https://github.com/petehunt/webpack-howto).
+ [como](https://github.com/gustavms/react-template-espanol).
 
 ## Como lo usas
 
-  * Clona el repositorio: `git clone  react-teamplate`
+  * Clona el repositorio: `git clone  react-template`
   * Instala las dependencias: `cd react-template && npm install`
   * Inicia el webpack para que escuche el loader(explicado mas abajo): `npm start`
   * Agrega tu codigo dentro de la carpeta disk y abre el archivo `index.html` para que inicie tu navegador web

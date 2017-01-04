@@ -7,7 +7,7 @@ import ReactDOM from "react-dom";
 export default class Footer extends React.Component {
   render(){
   	 return(
-        <h1> Footer </h1>
+        <h1> Esbribe tu codigo en  Footer </h1>
   	 	);
 
   }

@@ -11,7 +11,7 @@ export default class Layout extends React.Component {
   	 return(
   	 	<div>
   	 	<Header />
-        <h1> Texto en Layout </h1>
+        
         <Body />
         <Footer />
         </div>

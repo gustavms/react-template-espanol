@@ -6,7 +6,7 @@ import Layout from "./Layout.js"
 
 ReactDOM.render(
 	<div>
-	<h1>Hello React gustavo !</h1>
+	<h1>Hello React !</h1>
 	
     
     

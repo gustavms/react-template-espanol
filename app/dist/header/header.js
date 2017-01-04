@@ -9,8 +9,8 @@ export default class Header extends React.Component {
   render(){
   	 return(
   	 	<div>
-  	 	<header>Cabecera</header>
-        <h1> Header </h1>
+  	 	<header> Esbribe tu codigo en Header</header>
+        
         </div>
   	 	);
 
