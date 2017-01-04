@@ -1,0 +1,27 @@
+{
+  "name": "react-webpack-template",
+  "version": "1.0.0",
+  "description": "Este es un template para todos los que inician un proyecto basico en React Js con un Header, Body y Footer",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --progress --colors --watch",
+    "test": "echo \"Error: no hay test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavms/react-template-espanol.git"
+  },
+  "author": "Gustavo Medina Sanes",
+  "license": "Gustavo Rockets's MIT",
+  "dependencies": {
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.9"
+  }
+}
