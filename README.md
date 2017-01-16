@@ -1,5 +1,5 @@
 # react-webpack-template-español :0
-Este es un template Basico de React explicado en español para toda la comunidad, gratis, solo dame una estrellita y hazle fork de agradecimiento :)
+Este es un template Basico de React explicado en español para toda la comunidad y en especial usarlo para un taller,   dale una estrellita y hazle fork para utilizarlo :)
 La estructura esta realizada en 3 componentes: Header (navbar), Body y Footer
  [como](https://github.com/gustavms/react-template-espanol).
 
